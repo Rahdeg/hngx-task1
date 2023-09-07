@@ -11,7 +11,7 @@ export default function Home() {
       <div className='flex items-center justify-center w-full z-50 fixed inset-x-0 top-2 mt-3 px-6'>
         <Badge variant='outline' className=" bg-[#0A1A29] text-white border-none  h-12 rounded-md w-full flex items-center justify-between">
           <p data-testid="slackUserName" className=' text-xs md:text-lg font-bold text-purple-800'>
-            ABDULRAHEEM OLAWALE
+            RAHEEM
           </p>
 
           <DisplayDate />
@@ -36,7 +36,7 @@ export default function Home() {
         </div>
         <div className="w-full h-420 flex flex-col items-center justify-center ">
           <p className="text-lg text-white text-center">
-            I am <span data-testid="slackUserName" className=' text-lg font-bold text-purple-800'> ABDULRAHEEM OLAWALE </span>, <span data-testid="myTrack">Frontend</span> Intern in HNGx . I create interactive experiences for people using modern web technology,independent fellow who has soft spot for team/group work. Committed to high standards of service, performance and integrity.
+            I am <span data-testid="slackUserName" className=' text-lg font-bold text-purple-800'> RAHEEM </span>, <span data-testid="myTrack">Frontend</span> Intern @ HNGx . I create interactive experiences for people using modern web technology,independent fellow who has soft spot for team/group work. Committed to high standards of service, performance and integrity.
           </p>
 
           <button className="w-full md:w-auto relative mt-6 inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-green-400 to-blue-600 group-hover:from-green-400 group-hover:to-blue-600 hover:text-white dark:text-white focus:ring-4 focus:ring-green-200 dark:focus:ring-green-800 hover:shadow-lg hover:shadow-teal-500/50 hover:dark:shadow-lg hover:dark:shadow-teal-800/80">
